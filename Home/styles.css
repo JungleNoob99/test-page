@@ -4,12 +4,11 @@ body {
 
 p {
   border-color: rgb(25, 150, 180);
-  color: red;
   text-align: center;
   background-image: url("paper.gif");
 }
 h1 {
-  color: red;
+  border-color: rgb(25, 150, 180);
   text-align: center;
   background-image: url("paper.gif");
 }
